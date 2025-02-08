@@ -1,0 +1,13 @@
+,Criticality of Impact,Security and Privacy Concerns,Technological Feasibility,Ethical and Legal Challenges,Inclusivity and Accessibility,Cost of Implementation,Scalability,User Adoption and Acceptance,Potential for Innovation,Risk of Misuse,Regulatory and Compliance Complexity,Sustainability
+Criticality of Impact,1.0,5.85,5.55,4.7,5.2,4.4,6.65,4.5,4.9,5.95,4.9,5.5
+Security and Privacy Concerns,0.203,1.0,5.1,5.35,4.7,4.95,4.4,4.65,4.85,4.95,6.0,4.7
+Technological Feasibility,0.259,0.338,1.0,4.8,5.45,5.25,3.95,5.0,5.25,3.8,4.9,5.5
+Ethical and Legal Challenges,0.378,0.266,0.329,1.0,5.45,4.55,5.3,5.8,4.4,5.35,4.05,6.15
+Inclusivity and Accessibility,0.304,0.324,0.277,0.285,1.0,5.8,5.05,5.8,5.45,5.3,4.75,3.95
+Cost of Implementation,0.368,0.318,0.251,0.355,0.248,1.0,4.9,4.8,4.05,5.15,4.4,4.7
+Scalability,0.181,0.36,0.484,0.298,0.323,0.296,1.0,5.75,5.8,5.25,4.8,5.9
+User Adoption and Acceptance,0.301,0.39,0.304,0.21,0.262,0.342,0.267,1.0,4.6,6.15,4.1,4.55
+Potential for Innovation,0.337,0.377,0.223,0.31,0.308,0.425,0.235,0.293,1.0,5.45,4.1,4.75
+Risk of Misuse,0.273,0.341,0.442,0.274,0.32,0.278,0.364,0.299,0.241,1.0,4.45,6.4
+Regulatory and Compliance Complexity,0.303,0.24,0.315,0.394,0.343,0.354,0.335,0.402,0.385,0.342,1.0,5.5
+Sustainability,0.283,0.28,0.297,0.195,0.417,0.345,0.261,0.347,0.276,0.181,0.24,1.0
